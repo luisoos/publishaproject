@@ -36,4 +36,4 @@ There: just type in your GitHub Pages Link and click on `Set URL`.
 
 ### And that’s all! Your done!
 
-<img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Light_Bulb_or_Idea_Flat_Icon_Vector.svg/857px-Light_Bulb_or_Idea_Flat_Icon_Vector.svg.png"  alt="idea" height="30" width="30"> Tip: Learn about how to create a redirection with HTML in my repository https://github.com/luisoos/redirection.
+💡 Tip: Learn about how to create a redirection with HTML in my repository https://github.com/luisoos/redirection.
