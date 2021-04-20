@@ -34,6 +34,9 @@ After that go to `Services` and hit `My Domains`.
 Click on `Manage Domain` and hit `Management Tools` and go to `URL Forwarding`. 
 There: just type in your GitHub Pages Link and click on `Set URL`. 
 
+## Pro Trip
+While setting up GitHub Pages you can set up an custom domian aswell!
+
 ### And that’s all! You are done!
 
 💡 Tip: Learn about how to create a redirection with HTML in my repository https://github.com/luisoos/redirection.
